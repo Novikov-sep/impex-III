@@ -359,7 +359,7 @@ h6 {
   transition: all 0.6s ease 0s;
   opacity: 0;
   visibility: hidden;
-  z-index: 3;
+  z-index: 4;
 }
 
 .menu__list {
@@ -413,7 +413,7 @@ html.menu-open .menu__body {
   visibility: visible;
   pointer-events: all;
   left: -300px;
-  z-index: 2;
+  z-index: 3;
 }
 
 .bottom-header__container {

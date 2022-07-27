@@ -6969,7 +6969,6 @@
         window.onload = function() {
             whitescreen.classList.add("_loaded");
         };
-        window["FLS"] = true;
         isWebp();
         menuInit();
         tabs();
